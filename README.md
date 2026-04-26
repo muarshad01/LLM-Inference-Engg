@@ -30,3 +30,7 @@
 *** 
 
 * [MLSys](https://mlsys.org/)
+
+***
+
+* [InferenceX](https://inferencex.semianalysis.com/about)

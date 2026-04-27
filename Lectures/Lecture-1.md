@@ -154,10 +154,10 @@
 
 * [Meet Instant AI - cerebras.ai](https://chat.cerebras.ai/)
 
-* [Taalas | The model is The Computer](https://taalas.com/) - 15,000 tps
-
+* [Taalas | The model is The Computer](https://taalas.com/)
+  * 15,000 tps
+  * Model burned into silocon
 
 ***
 
-
-
+* 1:20:00

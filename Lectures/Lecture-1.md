@@ -68,10 +68,14 @@
 | Model ||
 |---|--|
 | Qwen3 | Alibaba China|
-| Llama 4 | Meta|
-| Kimi K2.5/K2.6 |  |
-| Gemma 3 | Google |
+| Kimi |  China|
 | DeepSeek-V3 | DeepSeek China| 
-| GLM5 | China|
+| GLM-5| China|
+|---|---|
+| Llama 4 | Meta|
+| Gemma 3 | Google |
 | Phi 4| Microsoft |
-| GLM-5||
+| Minstral Large | France|
+
+
+

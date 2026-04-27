@@ -58,3 +58,9 @@
 * 35:00
 
 * Semantic Layer to route the queries
+
+* [Grok 4](https://x.ai/news/grok-4)
+
+***
+
+* 40:00

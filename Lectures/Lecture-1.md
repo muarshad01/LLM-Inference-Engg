@@ -64,3 +64,14 @@
 ***
 
 * 40:00
+
+| Model ||
+|---|--|
+| Qwen3 | Alibaba China|
+| Llama 4 | Meta|
+| Kimi K2.5/K2.6 |  |
+| Gemma 3 | Google |
+| DeepSeek-V3 | DeepSeek China| 
+| GLM5 | China|
+| Phi 4| Microsoft |
+| GLM-5||

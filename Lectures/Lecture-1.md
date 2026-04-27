@@ -12,3 +12,11 @@
 * 15:00
 
 * [Qwen - Huggging Face](https://huggingface.co/Qwen)
+
+* Time to First Token (TTFT)
+* Inter-token latency (ITL)
+* Tokens per second (TPS or t/s)
+
+***
+
+* 20:00

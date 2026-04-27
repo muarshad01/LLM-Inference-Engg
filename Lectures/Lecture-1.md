@@ -54,3 +54,5 @@
 * Gemma 3 (27B) - 5:1 (local:global) sliding window and GQA
 
 *** 
+
+* 30:00

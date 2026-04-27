@@ -59,6 +59,13 @@
 
 ***
 
+#### KV-cache Compression
+* MLA absorption
+* sliding window cache
+* SSM state
+
+***
+
 * Speculative Decoding (Multiple tokens are generated at the same time together, so that, Inference becomes faster.)
 * Parallelism (Amount of memory on GPU takes reduces, so that, Inference becomes faster.)
 * Disaggregated Serving (Decouple prefill and decode)

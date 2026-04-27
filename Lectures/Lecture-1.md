@@ -137,4 +137,5 @@
 
 #### Edge Inference
 * Raspberry Pi LLM Inference
-* Mobile Phone Inference
+* Mobile Phone LLM Inference
+* [SmolChat - On-Device Inference of SLMs in Android](https://github.com/shubham0204/SmolChat-Android)

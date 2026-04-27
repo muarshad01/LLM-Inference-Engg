@@ -13,6 +13,7 @@
 
 * [Qwen - Huggging Face](https://huggingface.co/Qwen)
 
+#### Inference
 * Time to First Token (TTFT)
 * Inter-token latency (ITL)
 * Tokens per second (TPS or t/s)
@@ -31,7 +32,7 @@
 * Quantization
 * Speculative Decoding (Multiple tokens are generated at the same time together, so that, Inference becomes faster.)
 * Parallelism (Amount of memory on GPU takes reduces, so that, Inference becomes faster.)
-* Disaggregated Serving
+* Disaggregated Serving (Decouple prefill and decode)
 
 ***
 
@@ -50,5 +51,6 @@
 ***
 
 * [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
+* Gemma 3 (27B) - 5:1 (local:global) sliding window and GQA
 
 *** 

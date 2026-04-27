@@ -42,3 +42,9 @@
 *** 
 
 * 25:00
+
+#### Parameter-efficient fine-tuning (PEFT) techniques 
+* LoRA (Low-Rank Adaptation)
+* QLoRA (Quantized LoRA)
+
+***

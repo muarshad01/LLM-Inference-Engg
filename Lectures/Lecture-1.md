@@ -39,6 +39,8 @@
 #### Tooling
 * vLLM
 * SGLang
+* TensorRT-LLM
+* Ray Serve
 
 *** 
 
@@ -79,5 +81,5 @@
 
 ***
 
-* 45:00
+* 50:00
 

@@ -3,10 +3,11 @@
 ***
 
 #### Inference Engineer
-1. __Application Engg__: Pre-Trating
-2. __Inference Engg__: RunTime, Infrastructure, Tooling
-3. __GPU Engg__: Kernel coding
-4. Build Innovative GPU Chips
+1. Application
+2. Pre-Trating
+3. __Inference Engg__: RunTime, Infrastructure, Tooling
+4. __GPU Engg__: Kernel coding
+5. Build Innovative GPU Chips ([Wafer: AI that makes AI fast](https://www.ycombinator.com/companies/wafer))
 
 
 ***

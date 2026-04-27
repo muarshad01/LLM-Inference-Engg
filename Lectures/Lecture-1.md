@@ -1,10 +1,12 @@
 #### Lecture-1: Introduction to Inference Engineering
 
+***
 
 #### Inference Engineer
 1. __Application Engg__: Pre-Trating
 2. __Inference Engg__: RunTime, Infrastructure, Tooling
 3. __GPU Engg__: Kernel coding
+4. Build Innovative GPU Chips
 
 
 ***

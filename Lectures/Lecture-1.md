@@ -22,17 +22,38 @@
 
 * 20:00
 
-#### Qwen Optimizations
-* Attention (Flash Attention)
-  * MHA
-  * MQA
-  * MLA
-* State Space Models (SSA)
-  * Mixture of SSM like Mamba architecture with sliding-window
-* Quantization
+#### Attention Varients
+* MHA
+* MQA
+* GQA
+* MLA
+* Sliding Window
+* Linear State Space
+* Mamba
+
+#### Memory-traffic Rearrangemtn
+* FlashAttention
+* PagedAttention
+* Prefix Caching
+* Chuned Refill
+
+#### Quantization
+* FP16
+* FP8
+* INT8
+* INT4
+* GPTQ
+* GGUF
+* QAT
+* BitNet
+
+***
+
 * Speculative Decoding (Multiple tokens are generated at the same time together, so that, Inference becomes faster.)
 * Parallelism (Amount of memory on GPU takes reduces, so that, Inference becomes faster.)
 * Disaggregated Serving (Decouple prefill and decode)
+
+
 
 ***
 

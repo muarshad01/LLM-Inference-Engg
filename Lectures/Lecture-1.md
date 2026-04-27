@@ -26,12 +26,12 @@
   * MHA
   * MQA
   * MLA
-* Quantization
-* Inference: Speculative Decoding (Multiple tokens are generated at the same time together, so that, inference becomes faster.)
-* Parallelism
-* Disaggregated Serving
 * State Space Models (SSA)
-* Mixture of SSM like Mamba architecture with sliding-window
+  * Mixture of SSM like Mamba architecture with sliding-window
+* Quantization
+* Speculative Decoding (Multiple tokens are generated at the same time together, so that, Inference becomes faster.)
+* Parallelism (Amount of memory on GPU takes reduces, so that, Inference becomes faster.)
+* Disaggregated Serving
 
 ***
 
@@ -40,3 +40,5 @@
 * SGLang
 
 *** 
+
+* 25:00

@@ -55,7 +55,7 @@
 
 #### Scheduling Tricks
 * Continuous batching
-* Speculative decoding (N-gram, EAGLE, Medusa)
+* Speculative decoding (N-gram, EAGLE, Medusa): Multiple tokens are generated at the same time together, so that, Inference becomes faster.
 
 ***
 
@@ -66,11 +66,7 @@
 
 ***
 
-* Speculative Decoding (Multiple tokens are generated at the same time together, so that, Inference becomes faster.)
-* Parallelism (Amount of memory on GPU takes reduces, so that, Inference becomes faster.)
-* Disaggregated Serving (Decouple prefill and decode)
-
-
+* Disaggregated Serving: Decouple Prefill(P) / Decode(D)
 
 ***
 

@@ -20,3 +20,15 @@
 ***
 
 * 20:00
+
+#### Qwen Optimizations
+* Attention
+  * MHA
+  * MQA
+  * MLA
+* Quantization
+* Inference: Speculative Decoding
+* Parallelism
+* Disaggregated Serving
+* State Space Models (SSA)
+* Mixture of SSM like Mamba architecture with sliding-window

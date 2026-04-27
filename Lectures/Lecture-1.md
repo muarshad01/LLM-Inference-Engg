@@ -77,5 +77,7 @@
 | Phi 4| Microsoft |
 | Minstral Large | France|
 
+***
 
+* 45:00
 

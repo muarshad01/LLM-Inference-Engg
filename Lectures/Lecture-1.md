@@ -36,7 +36,7 @@
 * 15:00
 
 #### Inference
-* Time to First Token (TTFT)
+* Time to first token (TTFT)
 * Inter-token latency (ITL)
 * Tokens per second (TPS or t/s)
 

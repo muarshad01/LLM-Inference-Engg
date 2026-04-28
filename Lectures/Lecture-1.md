@@ -177,14 +177,14 @@ $$
 
 #### Journey of Prompty through Inference Pipeline
 * Prefill / Decode from Scratch
-* Prefill: Comptue bound
-* Decode: Memory bound
-
-* [A Bird’s-Eye View of LLM Architecture](https://vizuara.substack.com/p/a-birds-eye-view-of-llm-architecture)
+   * Prefill: Comptue bound
+   * Decode: Memory bound
 
 ***
 
 * 2:30:00
+
+#### [A Bird’s-Eye View of LLM Architecture](https://vizuara.substack.com/p/a-birds-eye-view-of-llm-architecture)
 
 * Prompt: Inference journey is "a"
 

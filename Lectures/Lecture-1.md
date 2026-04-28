@@ -218,25 +218,7 @@ $$
   * 15,000 tps
   * Model burned into silocon
 
-#### Model
-* [Qwen - Huggging Face](https://huggingface.co/Qwen)
-* [Grok 4](https://x.ai/news/grok-4)
-| Model ||
-|---|--|
-| Qwen3 | Alibaba China|
-| Kimi |  China|
-| DeepSeek-V3 | DeepSeek China| 
-| GLM-5| China|
-|---|---|
-| Llama 4 | Meta|
-| Gemma 4 | Google |
-| Phi 4| Microsoft |
-| Minstral Large | France|
-* [Introducing Claude Opus 4.7](https://www.google.com/search?q=opus+4.7&rlz=1C5GCCM_en&oq=opus+4.7&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIGCAEQABgDMhAIAhAAGIMBGLEDGIAEGIoFMg0IAxAAGIMBGLEDGIAEMhAIBBAAGIMBGLEDGIAEGIoFMgYIBRAAGAMyBwgGEAAYgAQyBggHEEUYQNIBCDI2OTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
-
 ***
-***
-
 
 #### [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
 * Gemma 3 (27B) - 5:1 (local:global) sliding window and GQA

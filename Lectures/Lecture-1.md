@@ -291,4 +291,4 @@ max-seq-length (context length)     |
 * SLM - produces more tokens, which are verified by LLM
 
 
-* 3:15:00
+* 3:20:00

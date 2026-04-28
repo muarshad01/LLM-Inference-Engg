@@ -239,3 +239,33 @@ $$
 ***
 
 * 2:30:00
+
+* Prompt: Inference journey is "a"
+
+1. Tokenization
+2. Embeddings:
+* Token embedding matrix (vocab_size, dim_of_model (8))
+3. Input Matrix
+  ```
+      Inference  | . . . . . . . . |
+ X =  Journey    | . . . . . . . . |
+      is         | . . . . . . . . |
+      a          | . . . . . . . . |
+  ```
+
+X is input embedding matrix of dimention is (4,8).
+
+4. Positional embedding matrix:
+```                     
+1                                   |
+2                                   |            
+.                                   |
+.                                   |
+.                                   |
+.                                   |
+max-seq-length (context length)     |
+```
+
+***
+
+* 2:40:00

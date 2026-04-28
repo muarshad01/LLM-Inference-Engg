@@ -283,3 +283,9 @@ max-seq-length (context length)     |
 * 3:05:00
 
 * [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+
+***
+
+#### Speculative Decoding
+* LLM
+* SLM - produces more tokens, which are verified by LLM

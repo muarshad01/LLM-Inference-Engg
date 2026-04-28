@@ -147,9 +147,9 @@
 
 * 1:55:00
 
-#### Arithmethic Intensity
+#### Arithmethic Intensity (AI)
 
-* $$\text{Arithmethic ~Intensity} = \frac{\text{num ~FLOPS}}{\text{Bytes ~transferred}}$$
+* $$\text{Arithmethic ~Intensity} = \frac{\text{num ~FLOPs}}{\text{Bytes ~transferred}}$$
 
 $$
 \begin{align}

@@ -1,6 +1,4 @@
-#### Lecture-1: Introduction to Inference Engineering
-
-***
+## Lecture-1: Introduction to Inference Engineering
 
 #### What an Inference Engineer Actually Does?
 1. Download an open-source model
@@ -13,8 +11,8 @@
 ***
 
 #### Pre-training versus Inference
-* Pre-training: Memory bound
-* Pre-training: Compute bound
+* Pre-training: Compute bound (offline)
+* Pre-training: Memory bound (online)
 
 ***
 

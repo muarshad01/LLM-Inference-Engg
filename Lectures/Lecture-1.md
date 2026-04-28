@@ -204,12 +204,9 @@ $$
   <img src="https://github.com/muarshad01/Inference-Engg/blob/main/images/Lecture-1/LLM-architecture.png" width="200" height="400"/>
 </p>
 
-
-* 5D-Parallelism Lecture-2
+* [5D-Parallelism Lecture-2](https://github.com/muarshad01/5D-Parallelism/blob/main/Notes/Day-01.md)
  
 ***
-
-
 
 #### Companies
 * Build Innovative GPU Chips ([Wafer: AI that makes AI fast](https://www.ycombinator.com/companies/wafer))
@@ -218,4 +215,5 @@ $$
   * 15,000 tps
   * Model burned into silocon
 
+***
 ***

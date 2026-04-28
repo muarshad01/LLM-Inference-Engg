@@ -114,22 +114,6 @@
 
 ***
 
-* 40:00
-
-| Model ||
-|---|--|
-| Qwen3 | Alibaba China|
-| Kimi |  China|
-| DeepSeek-V3 | DeepSeek China| 
-| GLM-5| China|
-|---|---|
-| Llama 4 | Meta|
-| Gemma 4 | Google |
-| Phi 4| Microsoft |
-| Minstral Large | France|
-
-***
-
 * 50:00
 
 * [GPU-Powered AI Inference | Scale AI Inference | Try Modal Free](https://modal.com/?utm_source=google&utm_medium=search&utm_campaign=ai_models_nonbrand&utm_term=ai%20inference%20infra&gad_source=1&gad_campaignid=22941570665&gbraid=0AAAAA9n1HKiQdbvwZC-U1jox7gml1d4Td&gclid=Cj0KCQjwkrzPBhCqARIsAJN460mX1mS9Y8rkKlcgu5z53Qc58HThSvVSvpywxJ3AejTyTkEJUSRuUjYaAgniEALw_wcB)
@@ -417,6 +401,20 @@ $$x_{atten} (3 \times 4) = Z \times W_0 = (s \times h) \times (h \times h)= (3 \
 #### Model
 * [Qwen - Huggging Face](https://huggingface.co/Qwen)
 * [Grok 4](https://x.ai/news/grok-4)
+| Model ||
+|---|--|
+| Qwen3 | Alibaba China|
+| Kimi |  China|
+| DeepSeek-V3 | DeepSeek China| 
+| GLM-5| China|
+|---|---|
+| Llama 4 | Meta|
+| Gemma 4 | Google |
+| Phi 4| Microsoft |
+| Minstral Large | France|
+
+***
+
 
 #### [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
 * Gemma 3 (27B) - 5:1 (local:global) sliding window and GQA

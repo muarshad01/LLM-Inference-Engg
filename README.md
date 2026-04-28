@@ -1,5 +1,6 @@
 ## Inference Engineering
 
+* [Schedule](https://github.com/muarshad01/Inference-Engg/blob/main/schedule.md)
 
 | Lecture | Notes | Date|
 |---|---|---|

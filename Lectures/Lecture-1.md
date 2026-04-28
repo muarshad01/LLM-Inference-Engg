@@ -77,7 +77,7 @@
 
 #### Scheduling Tricks
 * Continuous batching
-* Speculative decoding (N-gram, EAGLE, Medusa): Multiple tokens are generated at the same time together, so that, Inference becomes faster.
+* Speculative decoding (N-gram, EAGLE, Medusa): is an inference optimization technique that accelerates Large Language Model (LLM) generation by using a small, fast "draft" model to predict several future tokens, which a larger "target" model validates in a single parallel pass. 
 
 ***
 

@@ -35,8 +35,6 @@
 
 * 15:00
 
-* [Qwen - Huggging Face](https://huggingface.co/Qwen)
-
 #### Inference
 * Time to First Token (TTFT)
 * Inter-token latency (ITL)
@@ -422,3 +420,6 @@ $$x_{atten} (3 \times 4) = Z \times W_0 = (s \times h) \times (h \times h)= (3 \
 
 #### Companies
 * Build Innovative GPU Chips ([Wafer: AI that makes AI fast](https://www.ycombinator.com/companies/wafer))
+
+#### Model
+* [Qwen - Huggging Face](https://huggingface.co/Qwen)

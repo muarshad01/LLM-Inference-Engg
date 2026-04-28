@@ -83,7 +83,7 @@
 
 #### KV-cache Compression
 * MLA absorption
-* sliding window cache
+* Sliding Wsindow cache
 * SSM state
 
 ***

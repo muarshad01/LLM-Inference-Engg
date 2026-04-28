@@ -14,8 +14,6 @@
 * Pre-training: Compute bound (offline)
 * Inference: Memory bound (online)
 
-***
-
 #### Inference Engineer
 1. Application
 2. Pre-Trating
@@ -173,20 +171,14 @@ $$
 
 #### GPU Roofline Plot
 
-* 2:10:00
-
 ***
-
-#### Inference
-* Prefill: Comptue bound
-* Decode: Memory bound
-
-*** 
 
 * 2:20:00
 
 #### Journey of Prompty through Inference Pipeline
 * Prefill / Decode from Scratch
+* Prefill: Comptue bound
+* Decode: Memory bound
 
 * [A Bird’s-Eye View of LLM Architecture](https://vizuara.substack.com/p/a-birds-eye-view-of-llm-architecture)
 

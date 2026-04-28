@@ -55,7 +55,7 @@
 
 ***
 
-#### Memory-traffic Rearrangemtn
+#### Memory-traffic Rearrangement
 * FlashAttention
 * PagedAttention
 * Prefix Caching

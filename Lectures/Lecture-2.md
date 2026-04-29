@@ -12,3 +12,8 @@
 *** 
 
 * 5:00:00
+
+* [Cerebras Inference](https://chat.cerebras.ai/)
+* [Taalas - Burn the LLM on Chip](https://taalas.com/)
+
+***

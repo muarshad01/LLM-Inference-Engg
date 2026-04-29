@@ -25,7 +25,7 @@
 * 30:00
 
 
-|   | MHA||
+| Single HA | Multi HA ||
 |---|---|---|
 | $X(4,8)$ | $X(4,8)$ ||
 |---|---|---|
@@ -42,12 +42,6 @@
 | $Z(4,4)=\text{softmax}\bigg(\text{casual}\bigg(\frac{Q \times K^T}{\sqrt{d_{keys}}}\bigg)\bigg) \times V$ | $Z_1(4,2)=\text{Perspective-1}$ <br> $Z_2(4,2)=\text{Perspective-2}$ | Context matrix |
 || $Z(4,4) = [Z_1(4,2) \parallel Z_2(4,2)]$ |Concatinate Context matrices|
 
-
-#### MHA
-* Size of the attention-socre-matrices remains exactly the same.
-* Number of attention socre matrices is same as number of attention heads.
-
-* 
 
 #### Perspective
 

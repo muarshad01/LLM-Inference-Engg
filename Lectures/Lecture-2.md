@@ -23,3 +23,27 @@
 ***
 
 * 30:00
+
+
+|||
+|---|---|
+| X(4,8)||
+|---|---|
+| W_Q (8,4)||
+| W_K (8,4)||
+| W_V (8,4)||
+|---|---|
+| Q(4,4)=X.W_Q||
+| K(4,4)=X.W_K||
+| V(4,4)=X.W_V||
+|---|---|
+| Attention Score=A(4,4)=Q.K^T ||
+| Attention Weight=B(4,4)=softmax(casual(A/sqrt{d_{keys}}))||
+| Context matrix=Z(4,4)=B.W_0 ||
+
+
+#### MHA
+* Size of the attention-socre-matrices remains exactly the same.
+* Number of attention socre matrices is same as number of attention heads.
+
+* 

@@ -50,8 +50,8 @@
 The artist painted the portrait of a woman with a brush.
 ```
 
-* Artist painted (a oman who has a brush in her hand)
-* Artist has brush in his hand (he painted the portrait of a woman )
+1. painting a woman with a "brush"
+2. painting of a "woman with a brush"
 
 *** 
 

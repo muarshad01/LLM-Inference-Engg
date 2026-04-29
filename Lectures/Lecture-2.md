@@ -54,4 +54,13 @@ The artist painted the portrait of a woman with a brush.
 
 *** 
 
-* 45:00
+* 55:00
+
+#### The problem of redundant computation
+* Are we calculating the same thing over and over?
+
+***
+
+* 1:00:00
+
+* 

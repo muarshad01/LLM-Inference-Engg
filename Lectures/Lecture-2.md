@@ -101,3 +101,13 @@ $$\text{Bytes ~taken ~up ~by ~KV cache} = l \times b \times s \times h \times n_
 ***
 
 * [How do Graphics Cards Work? Exploring GPU Architecture](https://www.youtube.com/watch?v=h9Z4oGN89MU)
+
+***
+
+* 2:05:00
+
+
+
+
+
+

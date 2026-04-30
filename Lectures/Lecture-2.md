@@ -149,7 +149,6 @@ Deoploy
 
 * 3:20:00
 
-
 ****
 
 #### DeepSeek V4 KV-Cache
@@ -158,3 +157,9 @@ Deoploy
 3. far past (compressed version of tokens - C128A)
 
 * [DeepSeek V4 in vLLM: Efficient Long-context Attention](https://vllm-project.github.io/2026/04/24/deepseek-v4.html)
+
+***
+
+
+* 3:25:00
+

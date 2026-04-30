@@ -93,7 +93,7 @@ The artist painted the portrait of a woman with a brush.
 * 2 : number of byptes per PF (Assume each parameter takes 2 bytes)
 * 2 : Two caches one each for (k,v)
 
-$$\text{Bytes ~taken ~up ~by ~KV cache} = l \times b \times s \times h \times n_{heads} \times 2 \times 2$$
+$$\textbf{Bytes ~taken ~up ~by ~KV cache} = l \times b \times s \times h \times n_{heads} \times 2 \times 2$$
 
 * [TurboQuant](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/): Can we store KV-cache in low precisin. 
 * Compression across heads (MHA versus MLA)

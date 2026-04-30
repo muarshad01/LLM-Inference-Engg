@@ -71,7 +71,7 @@ The artist painted the portrait of a woman with a brush.
 
 ***
 
-#### Benefits
+#### Good (Necessary Evil)
 * Saves Re-computation
 * During Inference KV-cache Benefits (TTFT, ITL, TPS)
 * KV-cache benefits ITL, becauses we're doing less FLOPs
@@ -79,3 +79,9 @@ The artist painted the portrait of a woman with a brush.
 * $\text{num FLOPs} (\downarrow) \longrightarrow  \text{Wall clock time} (\downarrow) \longrightarrow ITL(\downarrow)$
 
 *** 
+
+#### Size of KV-Cache
+* KV-cahce size explosion!
+***
+
+* Compression across heads (MHA versus MLA)

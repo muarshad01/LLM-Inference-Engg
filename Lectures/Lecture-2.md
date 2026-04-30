@@ -160,6 +160,19 @@ Deoploy
 
 ***
 
-
 * 3:30:00
 
+* Why are we not using TurboQuant
+* Why are we not implementing DeepSeek V4 KV-Cache in our OpenSource LLM
+
+#### Research Paper Idea
+1. Start with an OpenSource model
+2. Ask Claude to Digest everything from DeepSeek V4 paper
+3. Implement the V4 paper changes on the Qwen model
+4. Implement TurboQuant
+5. Then compare and constast the two
+
+***
+
+6. Then compare
+****

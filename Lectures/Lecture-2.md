@@ -8,10 +8,7 @@
 
 * 5:00:00
 
-#### Y Combinator
-* [Y Combinator - Requests for Startups](https://www.ycombinator.com/rfs)
 
-***
 
 * 30:00
 

@@ -66,9 +66,8 @@ The artist painted the portrait of a woman with a brush.
 *** 
 
 #### Size of KV_Cache
-* KV-cahce size explosion!
 * High Bandwidth Memory (HBM) needs to be transferred to compute.
-* In the RoofLine graph, X-axis is (FLOPs/Bytes), as the number of Bytes increase, we move down along the slope, i.e., its MEMORY Bound.
+* In the RoofLine graph, __X-axis is called Arithmetic Intensity (AI), which is (FLOPs/Bytes)__. As the number of Bytes increase, we shift towards left/down along the slope, i.e., become more MEMORY Bound.
 
 
 * l : number of transformer blocks layers

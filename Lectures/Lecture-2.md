@@ -7,7 +7,6 @@
 
 * 30:00
 
-
 | Single HA | Multi HA ||
 |---|---|---|
 | $X(4,8)=X(s,d)$ | $X(4,8)=X(s,d)$ ||
@@ -38,13 +37,6 @@ The artist painted the portrait of a woman with a brush.
 
 *** 
 
-* 55:00
-
-#### The problem of redundant computation
-* Are we calculating the same thing over and over?
-
-***
-
 * 1:30:00
 
 * __Pre-training__: Params, Grads, Optims, Activs
@@ -56,6 +48,7 @@ The artist painted the portrait of a woman with a brush.
 
 #### Good (Necessary Evil)
 * Saves Re-computation
+  * With KV-Cache, we're calculating the same thing over and over (i.e., redundant computation)?
 * During Inference KV-cache Benefits (TTFT, ITL, TPS)
 * KV-cache benefits ITL, becauses we're doing less FLOPs
   * $\text{num FLOPs} \propto \text{Wall clock time}$

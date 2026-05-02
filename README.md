@@ -2,6 +2,7 @@
 
 * [Schedule](https://github.com/muarshad01/Inference-Engg/blob/main/schedule.md)
 * [How do Graphics Cards Work? Exploring GPU Architecture](https://www.youtube.com/watch?v=h9Z4oGN89MU)
+* [LLM Architecture Gallery by Sebastian Raska](https://sebastianraschka.com/llm-architecture-gallery/)
 
 | Lecture | Notes | Date|
 |---|---|---|

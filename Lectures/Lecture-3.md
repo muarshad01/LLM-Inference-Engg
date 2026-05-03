@@ -58,6 +58,6 @@
 
 * 2:40:00
 
-#### Sparse Attention
+#### DeepSeek Sparse Attention
 
 ***

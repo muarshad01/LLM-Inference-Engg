@@ -66,11 +66,16 @@
 ***
 
 #### Now the new token "bright" comes in
+
+#### MLA Query
 * $Q_{bright}   = x_{bright} \times W_Q$
+#### MLA Latent Vector
 * $cKV_{bright} = x_{bright} \times W_{dKV}$
-* $QI_{bright} = h_{bright} \times W_Q^T$
+#### Index Query and Key
+* $QI_{bright} = h_{bright} \times W_Q^T$ 
 * $KI_{bright} = h_{bright} \times W_K^T$
 
+***
 
 
 

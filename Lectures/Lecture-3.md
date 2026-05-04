@@ -60,9 +60,13 @@
 * 2:40:00
 
 #### DeepSeek Sparse Attention
+* Tokens + Index-Key
 
-
-* $Q_{bright} = x_{bright} \times W_Q$
-* $cKV_{bright} = x_{bright} \times W_{dKV}$
 
 ***
+
+#### Now the new token "bright" comes in
+* $Q_{bright} = x_{bright} \times W_Q$
+* $cKV_{bright} = x_{bright} \times W_{dKV}$
+* $QI_{bright} = h_bright \times W_Q^T$
+* $KI_{bright} = h_bright \times W_K^T$

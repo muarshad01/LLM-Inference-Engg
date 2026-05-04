@@ -63,6 +63,6 @@
 
 
 * $Q_{bright} = x_{bright} \times W_Q$
-* cKV_{bright} = x_{bright} \times W_{dKV}$
+* $cKV_{bright} = x_{bright} \times W_{dKV}$
 
 ***
